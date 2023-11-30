@@ -1,0 +1,5 @@
+git init => create repasitory
+git add . | git add {{ name }} 
+git commit -m "Message" | git commig -a -m "Message" => for add and commit
+git status 
+---------------------------->
