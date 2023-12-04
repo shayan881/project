@@ -3,3 +3,7 @@ git add . | git add {{ name }}
 git commit -m "Message" | git commig -a -m "Message" => for add and commit
 git status 
 ---------------------------->
+git diff => get information of file edited
+git log => log all commits 
+git log --oneline => sort and log all commits id:message
+git log -p => log all comits and show changes

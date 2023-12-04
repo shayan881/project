@@ -6,3 +6,5 @@ let add = (fnumber, tnumber, func) => {
 add(10, 20, (x) => {
     console.log(`this sum is : ${x}`);
 });
+
+console.log('Edited');
