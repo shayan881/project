@@ -7,4 +7,6 @@ add(10, 20, (x) => {
     console.log(`this sum is : ${x}`);
 });
 
-console.log('Edited');
+console.log('Editedd');
+
+console.log('hello world');

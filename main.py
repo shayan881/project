@@ -5,3 +5,4 @@ async def funcRun():
     print('hello world')
 
 run(funcRun())
+print('hello world')
