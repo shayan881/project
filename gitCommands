@@ -7,3 +7,6 @@ git diff => get information of file edited
 git log => log all commits 
 git log --oneline => sort and log all commits id:message
 git log -p => log all comits and show changes
+---------------------------->
+git checkout -- {{ . OR <file_name> }} => remvoe all file of level 1
+git reset HEAD {{ . OR <file_name> }} => remove from stage
